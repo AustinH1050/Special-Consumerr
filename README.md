@@ -1,7 +1,7 @@
 # Special-Consumerr
 Password Manager for the Masses
 
-# HOME PAGE: https://sites.google.com/prod/ironschools.org/specialconsumerr/Home
+# HOME PAGE: https://sites.google.com/prod/ironschools.org/specialconsumerr/home
 
 # INFO PAGE: https://sites.google.com/prod/ironschools.org/specialconsumerr/info
 

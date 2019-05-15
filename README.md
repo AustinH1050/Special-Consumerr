@@ -1,6 +1,10 @@
 # Special-Consumerr
 Password Manager for the Masses
 
+# HOME PAGE: https://sites.google.com/prod/ironschools.org/specialconsumerr/Home
+
+# INFO PAGE: https://sites.google.com/prod/ironschools.org/specialconsumerr/info
+
 ## It is a password manager, and asks you what the site is and the username and the password for the site, along with having a encrypted log in page.
 
 ## You run it in code runner at the moment and then you and the application will prompt you for your password to log in, then it will take you to you add ons, you enter the site, the username, and then the password for the site. Then it saves in a locked encrypted text document.
